@@ -1,0 +1,5 @@
+# ignora tolos los archivos terminados en ".o"  o  ".a"
+*.[oa]
+# ignora tdps los archivos  que terminen con una tilde "~"
+*~
+!/TODO
