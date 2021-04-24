@@ -1,2 +1,2 @@
 este es el documento que editaremos con git...
-ahora esta es la nueva linea 2
+ahora esta es la nueva linea 33
